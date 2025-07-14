@@ -39,3 +39,5 @@ This task not only strengthened my coding skills but also deepened my understand
 Overall, Task 4 gave me hands-on experience with real-world NLP, helped me understand the behavior of generative models, and taught me how to leverage pre-trained models to build intelligent applications with minimal effort and high effectiveness.
 
 **OUTPUT
+
+<img width="1558" height="252" alt="Image" src="https://github.com/user-attachments/assets/2c98411d-203d-4367-ad64-c8fb4a627c84" />
